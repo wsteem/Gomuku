@@ -1,11 +1,4 @@
 '''
-Name: Wesley Steem, ID: 1898878
-Project-2 deadline: December 20th
-
-In this homework, you will creaet a Gomoku game (also called Five in a Row). Gomoku is a board game played
-on a grid, so we'll use a Cartesian coordinate system with X-Y coordinates. It is a two-player game
-(in your program, one player will be the computer and the other will be you).
-
 Our Gomoku will use an m x n board (note that m and n can be different). The human player will use the stone
 'O', and the computer will use 'X'.
 '''
